@@ -5,6 +5,7 @@ Main::Main(QWidget *parent) :
     QMainWindow(parent),
     ui(new Ui::Main)
 {
+  //comment
     ui->setupUi(this);
 }
 
