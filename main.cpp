@@ -4,8 +4,7 @@
 Main::Main(QWidget *parent) :
     QMainWindow(parent),
     ui(new Ui::Main)
-{
-  //comment
+{ int S=0;
     ui->setupUi(this);
 }
 
